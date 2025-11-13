@@ -76,7 +76,7 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/cankurttekin/Android-D
 
 ---
 
-### License & Terms
+### ⚖️ License & Terms
 - MIT license for all code in this repository.
 - Third-party software installed via winget/msstore is subject to its own ToS/EULA.
 - Credits: [Android Debloat Helper](https://github.com/cankurttekin/Android-Debloat-Helper-GUI) by @cankurttekin (GPL-3.0), executed remotely and not redistributed here.
